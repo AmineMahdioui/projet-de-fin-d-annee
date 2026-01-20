@@ -311,15 +311,13 @@ This project was developed as an end-of-year capstone project demonstrating expe
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is available for academic and research purposes. Please contact the authors for commercial licensing inquiries.
 
 ---
 
 ## 🤝 Contact & Investment Inquiries
 
-For partnership opportunities, investment discussions, or technical inquiries:
-- **Email**: [contact@cyclesignal.ai]
-- **LinkedIn**: [Project Team]
+For partnership opportunities, investment discussions, or technical inquiries, please reach out via GitHub Issues or the repository's discussion board.
 
 ---
 
