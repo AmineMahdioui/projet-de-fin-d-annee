@@ -1,0 +1,35 @@
+# CycleSignal AI - Python Dependencies
+# Economic Recession Prediction & Sector Rotation Platform
+
+# Core Data Science
+numpy>=1.23.0
+pandas>=1.5.0
+scipy>=1.10.0
+
+# Machine Learning & Deep Learning
+tensorflow>=2.10.0
+scikit-learn>=1.2.0
+keras>=2.10.0
+
+# Time Series & Econometrics
+arch>=5.3.0
+statsmodels>=0.14.0
+
+# Data Sources
+yfinance>=0.2.0
+fredapi>=0.5.0
+quandl>=3.7.0
+pandas-datareader>=0.10.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.13.0
+
+# Jupyter Support
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+tqdm>=4.65.0
+
+# Utilities
+requests>=2.28.0
