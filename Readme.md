@@ -132,7 +132,7 @@ CycleSignal-AI/
 │   ├── TCN.ipynb                   # Temporal CNN experiments
 │   └── Mgarch.ipynb                # Multivariate GARCH
 │
-└── README.md                       # This file
+└── Readme.md                       # This file
 ```
 
 ---
