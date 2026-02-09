@@ -4,13 +4,12 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
 ## 🎯 Executive Summary
 
-**CycleSignal AI** is an advanced machine learning platform that predicts economic recessions using 120+ macroeconomic indicators and provides actionable sector rotation strategies for portfolio optimization. By combining deep learning (CNN-LSTM) with traditional econometric models (GARCH, VAR), the platform delivers early warning signals months before official recession announcements.
+**CycleSignal AI** is an advanced machine learning platform that predicts economic recessions using 120+ macroeconomic indicators and provides actionable sector rotation strategies for portfolio optimization. By combining deep learning (CNN-LSTM) with traditional econometric models (GARCH), the platform delivers early warning signals months before official recession announcements.
 
 ### Key Value Proposition
 
@@ -19,7 +18,7 @@
 | **Prediction Accuracy** | High correlation with NBER recession indicators |
 | **Lead Time** | 3-6 months early warning capability |
 | **Data Sources** | FRED, Quandl, Yahoo Finance (120+ variables) |
-| **Model Architecture** | Hybrid CNN-LSTM with attention mechanisms |
+| **Model Architecture** | Hybrid CNN-LSTM |
 
 ---
 
