@@ -67,7 +67,7 @@ DROPOUT_RATE = 0.2          # Dropout for regularization
 ### Training Configuration
 
 ```python
-EPOCHS = 28                 # Training epochs (see epoch.txt)
+EPOCHS = 28                 # Number of training epochs; tune based on validation performance
 BATCH_SIZE = 32             # Mini-batch size
 LEARNING_RATE = 0.001       # Adam optimizer learning rate
 VALIDATION_SPLIT = 0.2      # Train/validation split
